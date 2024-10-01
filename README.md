@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently working on `exr.et`
+- 🌱 I am actively learning how to be great on system design and architecture.
+- 👯 I will collaborate with any GO related project.
+- 📫 Any thing to discuss with me please use this socials:
+      - https://www.linkedin.com/in/mensur-khalid-7422791aa/
+      - https://www.upwork.com/freelancers/mensurt?mp_source=share
+      - https://roadmap.sh/card/tall/66d7d92d553501e3c30f7a99?variant=dark
